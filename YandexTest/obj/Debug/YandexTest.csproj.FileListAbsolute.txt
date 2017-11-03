@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\YandexTest\YandexTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\YandexTest\YandexTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\YandexTest\YandexTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\YandexTest\YandexTest\bin\Debug\YandexTest.dll
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\YandexTest\YandexTest\bin\Debug\YandexTest.pdb
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\YandexTest\YandexTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\YandexTest\YandexTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\YandexTest\YandexTest\bin\Debug\WebDriver.dll
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\YandexTest\YandexTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\YandexTest\YandexTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\YandexTest\YandexTest\bin\Debug\WebDriver.xml
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\YandexTest\YandexTest\obj\Debug\YandexTest.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\YandexTest\YandexTest\obj\Debug\YandexTest.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\YandexTest\YandexTest\obj\Debug\YandexTest.dll
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\YandexTest\YandexTest\obj\Debug\YandexTest.pdb
